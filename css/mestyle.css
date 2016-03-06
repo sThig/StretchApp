@@ -1,0 +1,58 @@
+body {
+background-color: #146071;
+}
+
+
+h1, h3 {
+color: white;
+
+}
+
+.box{
+  border-style: solid;
+  border-radius: 15px;
+  border-color: white;
+  border-width: 5px;
+  margin: 0 auto;
+
+
+}
+
+
+
+.push{
+margin-top: 10px;
+text-align: center;
+}
+
+
+
+p {
+  color: white;
+
+}
+
+.pgrey {
+  color: grey;
+}
+
+
+
+.countdown1 {
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.row-centered {
+    text-align:center;
+    margin-top: 10px;
+}
+.col-centered {
+    display:inline-block;
+    float:none;
+    /* reset the text-align */
+    text-align:left;
+    /* inline-block space fix */
+    margin-right:-4px;
+}
